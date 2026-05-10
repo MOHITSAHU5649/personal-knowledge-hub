@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PersonalKnowledge.iml" filepath="$PROJECT_DIR$/.idea/PersonalKnowledge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docker-compose.yml/docker-compose.yml.iml" filepath="$PROJECT_DIR$/docker-compose.yml/docker-compose.yml.iml" />
+    </modules>
+  </component>
+</project>
